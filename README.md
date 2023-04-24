@@ -25,12 +25,12 @@ NuGet\Install-Package ThaiNationalIDCard -Version 2.0.0
 NuGet\Install-Package SQLite -Version 3.13.0
 
 
-#HowToRunProgram
+# Run Program
 
 1.build program
 
 2.run : ThaiIDCardReader\bin\Debug\ThaiIDCardReader.exe
 
-#screenshot
+# Screenshot
 
 ![image](https://user-images.githubusercontent.com/19383360/234030078-b502118d-39d5-4d72-8719-852bf94bbb3a.png)
