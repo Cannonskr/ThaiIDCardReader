@@ -25,7 +25,7 @@ NuGet\Install-Package ThaiNationalIDCard -Version 2.0.0
 NuGet\Install-Package SQLite -Version 3.13.0
 
 
-#run program
+#HowToRunProgram
 
 1.build program
 
